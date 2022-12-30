@@ -5,7 +5,7 @@ This is a web based application developed for Agriculture related website in ind
 ### This web based lifestyle application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-Project Link - 
+Project Link - https://red-grass-008f99d00.2.azurestaticapps.net 
 
 
 
