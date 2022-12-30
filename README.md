@@ -1,6 +1,6 @@
 # ✨ Adventure Gaming ✨
 
-This is a web based application developed for Agriculture related website in india
+This is a web based application developed for gaming related website in india
 
 ### This web based lifestyle application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
