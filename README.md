@@ -9,7 +9,7 @@ Project Link - https://red-grass-008f99d00.2.azurestaticapps.net
 
 
 
-Project demo video link -
+Project demo video link -https://youtu.be/XSmK55S02UY
 
 
 ## Features and Functionalities 😃
